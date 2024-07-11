@@ -1,4 +1,4 @@
-﻿// La generación de código T4 está habilitada para el modelo 'D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\Modelo\Person.edmx'. 
+﻿// La generación de código T4 está habilitada para el modelo 'C:\Users\nico_\Desktop\Programación 3\Practicos\Practico 7\Practica7\Modelo\Person.edmx'. 
 // Para habilitar la generación de código heredada, cambie el valor de la propiedad del diseñador 'Estrategia de generación de código'
 // por 'ObjectContext heredado'. Esta propiedad está disponible en la ventana Propiedades cuando se abre
 // el modelo en el diseñador.

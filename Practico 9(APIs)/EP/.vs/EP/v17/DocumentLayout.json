@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|c:\\users\\nico_\\desktop\\programaci\u00F3n 3\\practicos\\practico 8\\ep\\practica8ep_api\\controllers\\epcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|solutionrelative:practica8ep_api\\controllers\\epcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|c:\\users\\nico_\\desktop\\programaci\u00F3n 3\\practicos\\practico 8\\ep\\practica8ep_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|solutionrelative:practica8ep_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|c:\\users\\nico_\\desktop\\programaci\u00F3n 3\\practicos\\practico 8\\ep\\practica8ep_api\\datos\\epstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|solutionrelative:practica8ep_api\\datos\\epstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|c:\\users\\nico_\\desktop\\programaci\u00F3n 3\\practicos\\practico 8\\ep\\practica8ep_api\\modelos\\dto\\epdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|solutionrelative:practica8ep_api\\modelos\\dto\\epdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|c:\\users\\nico_\\desktop\\programaci\u00F3n 3\\practicos\\practico 8\\ep\\practica8ep_api\\modelos\\ep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD45255E-74D6-4B23-9C89-B4436303DA06}|Practica8EP_API\\Practica8EP_API.csproj|solutionrelative:practica8ep_api\\modelos\\ep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Program.cs",
+              "RelativeDocumentMoniker": "Practica8EP_API\\Program.cs",
+              "ToolTip": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Program.cs",
+              "RelativeToolTip": "Practica8EP_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:56:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EPController.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Controllers\\EPController.cs",
+              "RelativeDocumentMoniker": "Practica8EP_API\\Controllers\\EPController.cs",
+              "ToolTip": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Controllers\\EPController.cs",
+              "RelativeToolTip": "Practica8EP_API\\Controllers\\EPController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADwv28AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:57:22.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EPStore.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Datos\\EPStore.cs",
+              "RelativeDocumentMoniker": "Practica8EP_API\\Datos\\EPStore.cs",
+              "ToolTip": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Datos\\EPStore.cs",
+              "RelativeToolTip": "Practica8EP_API\\Datos\\EPStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:18:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EPDto.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Modelos\\Dto\\EPDto.cs",
+              "RelativeDocumentMoniker": "Practica8EP_API\\Modelos\\Dto\\EPDto.cs",
+              "ToolTip": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Modelos\\Dto\\EPDto.cs",
+              "RelativeToolTip": "Practica8EP_API\\Modelos\\Dto\\EPDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:12:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EP.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Modelos\\EP.cs",
+              "RelativeDocumentMoniker": "Practica8EP_API\\Modelos\\EP.cs",
+              "ToolTip": "C:\\Users\\nico_\\Desktop\\Programaci\u00F3n 3\\Practicos\\Practico 8\\EP\\Practica8EP_API\\Modelos\\EP.cs",
+              "RelativeToolTip": "Practica8EP_API\\Modelos\\EP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:00:35.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
