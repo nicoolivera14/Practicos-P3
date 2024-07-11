@@ -1,0 +1,49 @@
+﻿@model Práctica8EjerciciosDeAccesoADatos.Models.Alquilere
+
+@{
+    ViewData["Title"] = "Marcar como Entregado";
+}
+
+
+
+<h1>Marcar como Entregado</h1>
+
+<h3>¿Está seguro de que desea marcar este alquiler como entregado?</h3>
+<div>
+    <h4>Alquiler</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Cliente
+        </dt>
+        <dd class="col-sm-10">
+            @Model.IdClienteNavigation?.Nombre
+        </dd>
+        <dt class="col-sm-2">
+            Copia
+        </dt>
+        <dd class="col-sm-10">
+            @Model.IdCopiaNavigation?.IdPeliculaNavigation?.Titulo
+        </dd>
+        <dt class="col-sm-2">
+            Fecha de Alquiler
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FechaAlquiler
+        </dd>
+        <dt class="col-sm-2">
+            Fecha Tope
+        </dt>
+        <dd class="col-sm-10">
+            @Model.FechaTope
+        </dd>
+    </dl>
+
+    <form asp-action="MarcarEntregado">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <input type="submit" value="Marcar como Entregado" class="btn btn-primary" /> |
+            <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+        </div>
+    </form>
+</div>

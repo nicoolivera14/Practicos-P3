@@ -1,0 +1,43 @@
+﻿@model Práctica8EjerciciosDeAccesoADatos.Models.Alquilere
+
+@{
+    ViewData["Title"] = "Crear Nuevo Alquiler";
+}
+
+<h1>Crear Nuevo Alquiler</h1>
+
+<h4>Alquilere</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="IdCliente" class="control-label">Cliente</label>
+                <select asp-for="IdCliente" class="form-control" asp-items="ViewBag.IdCliente">
+                    <option value="">Seleccione un cliente</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCopia" class="control-label">Copia</label>
+                <select asp-for="IdCopia" class="form-control" asp-items="ViewBag.IdCopia">
+                    <option value="">Seleccione una copia</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaAlquiler" class="control-label"></label>
+                <input asp-for="FechaAlquiler" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaTope" class="control-label"></label>
+                <input asp-for="FechaTope" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>

@@ -1,0 +1,5 @@
+﻿imprimir cantidad de empleados de la empresa 1 que tienen el cargo de CEO (HECHO)
+mostrar los datos del empleado que gana mas (HECHO)
+imprimir los empleados que ganan mas de 2200 (HECHO)
+mostrar el empleado que gana mas por cada cargo (HECHO)
+mostrar el empleado que gana mas por cada empresa (HECHO)

@@ -1,0 +1,10 @@
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\bin\Debug\Practica7.exe.config
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\bin\Debug\Practica7.exe
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\bin\Debug\Practica7.pdb
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\bin\Debug\EntityFramework.dll
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\bin\Debug\EntityFramework.xml
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\obj\Debug\Practica7.csproj.AssemblyReference.cache
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\obj\Debug\Practica7.csproj.CoreCompileInputs.cache
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\obj\Debug\Practica7.csproj.Up2Date
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\obj\Debug\Practica7.exe
+D:\Documents\Federico\CEI\PROGRAMACION 3\Practicos\Prog3Practicos\Practica7\obj\Debug\Practica7.pdb

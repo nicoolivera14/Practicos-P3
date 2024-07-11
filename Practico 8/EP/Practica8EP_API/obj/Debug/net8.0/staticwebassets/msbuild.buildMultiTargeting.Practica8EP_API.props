@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practica8EP_API.props" />
+</Project>
